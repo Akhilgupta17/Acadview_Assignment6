@@ -9,6 +9,3 @@ print(dict)
 
 for value in dict:
     print(value,dict[value])
-
-for key in dict:
-    print(key,dict[key])
